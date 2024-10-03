@@ -1,6 +1,13 @@
-## Quan Tran
+ # **Quan Tran**
 
+<ins>Github Profile</ins>: [qtran6](https://github.com/qtran6/qtran6)
+## Bio
 
+## Skills
+
+## Education
+
+## Interest
 
 <!--
 **qtran6/qtran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
