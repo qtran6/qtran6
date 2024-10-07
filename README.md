@@ -12,10 +12,10 @@ class CodeLeaner {
     public String name = "Quan Tran";
     public Degree degree = "Bachelor of Science in Computer Science";
     public Skills[] skills = {"Java","C#","C++","Python","HTML","CSS","SQL"};
-    public Interests[] interests= {"Gaming","Cooking","Rollerblading"};
+    private Interests[] interests= {"Gaming","Cooking","Rollerblading"};
 
     public void sayHi() {
-        System.out.println("Thanks for dropping by (♥‿♥)");
+        System.out.println("Thank you for dropping by! (♥‿♥)");
     }
 }
 ```
