@@ -1,13 +1,24 @@
- # **Quan Tran**
+ # **Hi there, I'm Quan 👋**
 
-<ins>Github Profile</ins>: [qtran6](https://github.com/qtran6/qtran6)
-## Bio
+<I>Senior at [<ins>Eastern Washington University</ins>](https://www.ewu.edu)
+<br>Bachelor of Science in Computer Science</I>
 
-## Skills
+<!--<ins>Github Profile</ins>: [qtran6](https://github.com/qtran6/qtran6)-->
 
-## Education
+## About me
 
-## Interest
+```java
+
+class CodeLeaner {
+    String name = "Quan Tran";
+    Degree degree = "Bachelor of Science in Computer Science";
+    Skills[] skills = {"Java","C#","C++","Python","HTML","CSS","SQL"};
+
+    public void sayHi() {
+        System.out.println("Thanks for dropping by (♥‿♥)");
+    }
+}
+```
 
 <!--
 **qtran6/qtran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
