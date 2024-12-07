@@ -4,7 +4,7 @@
 <br>Bachelor of Science in Computer Science</I>
 
 
-## A bit about me ✨
+## A bit about me:
 
 ```java
 
