@@ -8,7 +8,7 @@
 
 ```java
 
-class CodeLeaner {
+class CodeLearner {
     public String name = "Quan Tran";
     public Degree degree = "Bachelor of Science in Computer Science";
     public Skills[] skills = {"Java","C#","C++","Python","HTML","CSS","SQL"};
