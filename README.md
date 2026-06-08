@@ -1,6 +1,6 @@
  # **Hi there, I'm Quan 👋**
 
-<I>Graduated at [<ins>University of The Pacific</ins>]([https://www.ewu.edu](https://www.pacific.edu/)
+<I>Graduated at [<ins>University of The Pacific</ins>](https://www.pacific.edu/)
 <br>Bachelor of Science in Computer Science</I>
 
 
